@@ -2,6 +2,7 @@
   "name": "@hexlet/code",
   "version": "1.0.0",
   "description": "Вычислитель отличий",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +19,8 @@
   "homepage": "https://github.com/Disv-23/frontend-project-46#readme",
   "bin": {
     "gendiff": "bin/gendiff.js"
+  },
+  "dependencies": {
+    "commander": "^10.0.0"
   }
 }
