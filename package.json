@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Disv-23/frontend-project-46#readme",
   "bin": {
-    "gendiff": "bin/gendiffs.js"
+    "gendiffs": "bin/gendiffs.js"
   },
   "dependencies": {
     "commander": "^10.0.0"
